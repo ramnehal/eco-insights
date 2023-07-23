@@ -1,0 +1,24 @@
+.p__opensans {
+  font-family: var(--font-alt);
+  color: var(--color-black);
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+  line-height: 28px;
+  font-size: 16px;
+}
+
+.custom__button {
+  background-color: var(--color-green);
+  color: var(--color-white);
+  font-family: var(--font-base);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  line-height: 24px;
+  font-size: 20px;
+  padding: 12px 38px;
+  border-radius: 40px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
